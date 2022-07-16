@@ -25,5 +25,10 @@ PT: _Atualmente me encontro em transição de carreira para a área de tecnologi
   <img align="center" alt="Fabio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Fabio-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Fabio-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+  
+   ![Snake animation](https://github.com/fabiorpaz/fabiorpaz/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
+
 
  
