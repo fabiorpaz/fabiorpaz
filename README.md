@@ -1,17 +1,16 @@
 ## Hello World! 👋
 ### Have a seat and drink a coffee ☕
 
-EN: Currently, I am in a career transition to technology area, seeking to become a software developer. I am a graduate of the CESAR School's NExT program, which is aimed at those who wish to enter the IT market.
 
-PT: _Atualmente me encontro em transição de carreira para a área de tecnologia, buscando me tornar desenvolvedor de software. Sou concluinte do NExT, da CESAR School, que é um programa voltado para pessoas que desejam ingressar no mercado de tecnologia da informação._
-#### CESAR School's NexT program:
-- Logic Programming ✅
-- Python ✅
-- Data structures in Python, Git, Version Controls ✅
-- Configuration Management ✅
-- Java (Knowledge of Object Oriented Paradigms, Java concepts, building web solutions using Spring boot) ✅
-- Practical experience in challenges at CESAR ✅
+Programador e graduante em Análise e Desenvolvimento de Sistemas. Sou concluinte do NExT, da CESAR School (turma de janeiro de 2022), em que, assim, foi dado o início em minha carreira como programador. O NExT é um programa voltado para pessoas interessadas em transição de carreira a fim de obter os conhecimentos necessários e se prepararem para o mercado tecnológico.
+#### CESAR School's NexT - Assuntos abordados:
+- Lógica de programação
+- Python
+- Estrutura de dados em Python
+- Git, versionamento de código
+- Java (POO, Spring Boot)
 
+Atualmente estou prosseguindo meus estudos tendo como base a programação em Java com interesse no Full Stack, tal como programação mobile por meio da linguagem Java & Kotlin através das plataformas online de estudo DIO e Alura.
 ##
 
  <div> 
