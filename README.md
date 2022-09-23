@@ -1,6 +1,9 @@
-## Hello World! 👋
-### Have a seat and drink a coffee ☕
+<tr><td><a href="README.md"><img src="https://i.imgur.com/0AUV6Hy.png" height="18.5" align="center">  Português</a></td></tr>  <tr><td><a href="README_us.md"><img src="https://i.imgur.com/Ja6zOUB.png" height="18.5" align="center"> English</a></td></tr>  <tr><td><a href="README_es.md"><img src="https://i.imgur.com/aTLvLiO.png" height="18.5" align="center"> Español</a></td></tr>
 
+
+## Hello World! 👋
+
+### Have a seat and drink a coffee ☕
 
 Programador e graduante em Análise e Desenvolvimento de Sistemas. Sou concluinte do NExT, da CESAR School (turma de janeiro de 2022), em que, assim, foi dado o início em minha carreira como programador. O NExT é um programa voltado para pessoas interessadas em transição de carreira a fim de obter os conhecimentos necessários e se prepararem para o mercado tecnológico.
 #### CESAR School's NexT - Assuntos abordados:
