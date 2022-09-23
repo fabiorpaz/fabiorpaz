@@ -1,19 +1,21 @@
-<tr><td><a href="README.md"><img src="https://i.imgur.com/0AUV6Hy.png" height="18.5" align="center">  Português</a></td></tr>  <tr><td><a href="README_us.md"><img src="https://i.imgur.com/Ja6zOUB.png" height="18.5" align="center"> English</a></td></tr>  <tr><td><a href="README_es.md"><img src="https://i.imgur.com/aTLvLiO.png" height="18.5" align="center"> Español</a></td></tr>
+<tr><td><a href="README.md"><img src="https://i.imgur.com/0AUV6Hy.png" height="28" align="center">  Português</a></td></tr>  <tr><td><a href="README_us.md"><img src="https://i.imgur.com/Ja6zOUB.png" height="28" align="center"> English</a></td></tr>  <tr><td><a href="README_es.md"><img src="https://i.imgur.com/aTLvLiO.png" height="28" align="center"> Español</a></td></tr>
 
 
 ## Hello World! 👋
 
 ### Have a seat and drink a coffee ☕
 
-Programador e graduante em Análise e Desenvolvimento de Sistemas. Sou concluinte do NExT, da CESAR School (turma de janeiro de 2022), em que, assim, foi dado o início em minha carreira como programador. O NExT é um programa voltado para pessoas interessadas em transição de carreira a fim de obter os conhecimentos necessários e se prepararem para o mercado tecnológico.
-#### CESAR School's NexT - Assuntos abordados:
-- Lógica de programação
+Programmer and graduate in Systems Analysis and Development. I am a graduate of NExT, from CESAR School (January 2022 class), which, in this way, started my career as a programmer. NExT is a program aimed at people interested in career transition in order to obtain the necessary knowledge and to prepare them for the technological working field expertise.
+
+#### CESAR School's NexT - Topics covered:
+- Programming logic
 - Python
-- Estrutura de dados em Python
-- Git, versionamento de código
+- Data structure in Python
+- Git, code versioning
 - Java (POO, Spring Boot)
 
-Atualmente estou prosseguindo meus estudos tendo como base a programação em Java com interesse no Full Stack, tal como programação mobile por meio da linguagem Java & Kotlin através das plataformas online de estudo DIO e Alura.
+I am currently pursuing my studies based on Java programming with an interest in the Full Stack, such as mobile programming through Java & Kotlin language through the online study platforms as DIO and Alura.
+
 ##
 
  <div> 
