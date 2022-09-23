@@ -12,7 +12,7 @@ Programmer and graduate in Systems Analysis and Development. I am a graduate of 
 - Python
 - Data structure in Python
 - Git, code versioning
-- Java (POO, Spring Boot)
+- Java (OOP, Spring Boot)
 
 I am currently pursuing my studies based on Java programming with an interest in the Full Stack, such as mobile programming through Java & Kotlin language through the online study platforms as DIO and Alura.
 
